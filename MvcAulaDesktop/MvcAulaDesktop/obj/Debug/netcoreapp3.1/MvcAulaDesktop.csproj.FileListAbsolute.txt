@@ -1,0 +1,17 @@
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\bin\Debug\netcoreapp3.1\MvcAulaDesktop.exe
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\bin\Debug\netcoreapp3.1\MvcAulaDesktop.deps.json
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\bin\Debug\netcoreapp3.1\MvcAulaDesktop.runtimeconfig.json
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\bin\Debug\netcoreapp3.1\MvcAulaDesktop.runtimeconfig.dev.json
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\bin\Debug\netcoreapp3.1\MvcAulaDesktop.dll
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\bin\Debug\netcoreapp3.1\MvcAulaDesktop.pdb
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\obj\Debug\netcoreapp3.1\MvcAulaDesktop.csproj.AssemblyReference.cache
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\obj\Debug\netcoreapp3.1\MvcAulaDesktop.Form1.resources
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\obj\Debug\netcoreapp3.1\MvcAulaDesktop.Views.Clientes.CadastroCliente.resources
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\obj\Debug\netcoreapp3.1\MvcAulaDesktop.csproj.GenerateResource.cache
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\obj\Debug\netcoreapp3.1\MvcAulaDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\obj\Debug\netcoreapp3.1\MvcAulaDesktop.AssemblyInfoInputs.cache
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\obj\Debug\netcoreapp3.1\MvcAulaDesktop.AssemblyInfo.cs
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\obj\Debug\netcoreapp3.1\MvcAulaDesktop.csproj.CoreCompileInputs.cache
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\obj\Debug\netcoreapp3.1\MvcAulaDesktop.dll
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\obj\Debug\netcoreapp3.1\MvcAulaDesktop.pdb
+C:\Cássio\MvcAulaDesktop\MvcAulaDesktop\obj\Debug\netcoreapp3.1\MvcAulaDesktop.genruntimeconfig.cache
