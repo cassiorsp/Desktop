@@ -1,0 +1,16 @@
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\bin\Debug\net5.0\AtividadeConsole.exe
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\bin\Debug\net5.0\AtividadeConsole.deps.json
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\bin\Debug\net5.0\AtividadeConsole.runtimeconfig.json
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\bin\Debug\net5.0\AtividadeConsole.runtimeconfig.dev.json
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\bin\Debug\net5.0\AtividadeConsole.dll
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\bin\Debug\net5.0\ref\AtividadeConsole.dll
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\bin\Debug\net5.0\AtividadeConsole.pdb
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\obj\Debug\net5.0\AtividadeConsole.csproj.AssemblyReference.cache
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\obj\Debug\net5.0\AtividadeConsole.GeneratedMSBuildEditorConfig.editorconfig
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\obj\Debug\net5.0\AtividadeConsole.AssemblyInfoInputs.cache
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\obj\Debug\net5.0\AtividadeConsole.AssemblyInfo.cs
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\obj\Debug\net5.0\AtividadeConsole.csproj.CoreCompileInputs.cache
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\obj\Debug\net5.0\AtividadeConsole.dll
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\obj\Debug\net5.0\ref\AtividadeConsole.dll
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\obj\Debug\net5.0\AtividadeConsole.pdb
+W:\users\cassio.rsprado\Documents\Console\AtividadeConsole\obj\Debug\net5.0\AtividadeConsole.genruntimeconfig.cache
