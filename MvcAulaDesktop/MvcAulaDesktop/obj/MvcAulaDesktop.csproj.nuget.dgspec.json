@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cássio\\MvcAulaDesktop\\MvcAulaDesktop\\MvcAulaDesktop.csproj": {}
+    "W:\\users\\cassio.rsprado\\Documents\\ProjetoDesktop\\Desktop\\MvcAulaDesktop\\MvcAulaDesktop\\MvcAulaDesktop.csproj": {}
   },
   "projects": {
-    "C:\\Cássio\\MvcAulaDesktop\\MvcAulaDesktop\\MvcAulaDesktop.csproj": {
+    "W:\\users\\cassio.rsprado\\Documents\\ProjetoDesktop\\Desktop\\MvcAulaDesktop\\MvcAulaDesktop\\MvcAulaDesktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cássio\\MvcAulaDesktop\\MvcAulaDesktop\\MvcAulaDesktop.csproj",
+        "projectUniqueName": "W:\\users\\cassio.rsprado\\Documents\\ProjetoDesktop\\Desktop\\MvcAulaDesktop\\MvcAulaDesktop\\MvcAulaDesktop.csproj",
         "projectName": "MvcAulaDesktop",
-        "projectPath": "C:\\Cássio\\MvcAulaDesktop\\MvcAulaDesktop\\MvcAulaDesktop.csproj",
+        "projectPath": "W:\\users\\cassio.rsprado\\Documents\\ProjetoDesktop\\Desktop\\MvcAulaDesktop\\MvcAulaDesktop\\MvcAulaDesktop.csproj",
         "packagesPath": "W:\\users\\cassio.rsprado\\.nuget\\packages\\",
-        "outputPath": "C:\\Cássio\\MvcAulaDesktop\\MvcAulaDesktop\\obj\\",
+        "outputPath": "W:\\users\\cassio.rsprado\\Documents\\ProjetoDesktop\\Desktop\\MvcAulaDesktop\\MvcAulaDesktop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "W:\\users\\cassio.rsprado\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
               "version": "[5.0.14, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.14, )"
             }

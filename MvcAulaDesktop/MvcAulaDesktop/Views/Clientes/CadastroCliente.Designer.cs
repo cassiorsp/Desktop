@@ -48,6 +48,7 @@ namespace MvcAulaDesktop.Views.Clientes
             this.label9 = new System.Windows.Forms.Label();
             this.txtNumero = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
+            this.btnSalvar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -203,11 +204,22 @@ namespace MvcAulaDesktop.Views.Clientes
             this.label10.TabIndex = 17;
             this.label10.Text = "Numero";
             // 
+            // btnSalvar
+            // 
+            this.btnSalvar.Location = new System.Drawing.Point(23, 280);
+            this.btnSalvar.Name = "btnSalvar";
+            this.btnSalvar.Size = new System.Drawing.Size(125, 29);
+            this.btnSalvar.TabIndex = 19;
+            this.btnSalvar.Text = "Salvar";
+            this.btnSalvar.UseVisualStyleBackColor = true;
+            this.btnSalvar.Click += new System.EventHandler(this.Salvar);
+            // 
             // CadastroCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(433, 296);
+            this.ClientSize = new System.Drawing.Size(433, 349);
+            this.Controls.Add(this.btnSalvar);
             this.Controls.Add(this.txtNumero);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.txtRua);
@@ -255,5 +267,6 @@ namespace MvcAulaDesktop.Views.Clientes
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.TextBox txtNumero;
         private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Button btnSalvar;
     }
 }
